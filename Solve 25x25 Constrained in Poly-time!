@@ -1,7 +1,7 @@
 Output of valid 25 x 25 grid
 
 
-Create a puzzle out of this valid 25x25 grid and take thix n x n box and enter per input rules into the solver and it will
+Create a puzzle out of this valid 25x25 grid and take this n x n box and enter per input rules into the solver and it will
 solve your puzzle in poly-time
 
 In order to generate a 25 x 25 valid Sudoku
@@ -12,6 +12,8 @@ Simply enter the input as a list for the python script
 
 With no repeating elements
 
+To create the puzzle you could remove elements randomly and check to see if it is a one-solution
+puzzle. 
 
 
  Take this top-left n x n box and it will solve the remaining puzzle
