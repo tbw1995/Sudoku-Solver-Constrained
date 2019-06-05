@@ -16,7 +16,9 @@ To create the puzzle you could remove elements randomly and check to see if it i
 puzzle. You can do this manually with a search and replace in a open notepad window.
 
 
-
+Enter mapping valid Sudoku eg. 3 for 9 x 9:5
+Enter 9 for 9 x 9 ...12 for 12 x 12:25
+Enter 3 if its a 9 x 9 ... n^2 x n^2:5
 
  Take this top-left n x n box and it will solve the remaining puzzle
 
