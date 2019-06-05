@@ -4,6 +4,16 @@ Output of valid 25 x 25 grid
 Create a puzzle out of this valid 25x25 grid and take thix n x n box and enter per input rules into the solver and it will
 solve your puzzle in poly-time
 
+In order to generate a 25 x 25 valid Sudoku
+
+Simply enter the input as a list for the python script
+
+[[01],[02],[03],[04],[05],[06],[07],[08],[09],[10],[11],[12],[13],[14],[15],[16],[17],[18],[19],[20],[21],[22],[23],[24],[25]]
+
+With no repeating elements
+
+
+
  Take this top-left n x n box and it will solve the remaining puzzle
 
 [01][02][03][04][05] [06][07][08][09][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25]
