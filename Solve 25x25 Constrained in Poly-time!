@@ -13,7 +13,9 @@ Simply enter the input as a list for the python script
 With no repeating elements
 
 To create the puzzle you could remove elements randomly and check to see if it is a one-solution
-puzzle. 
+puzzle. You can do this manually with a search and replace in a open notepad window.
+
+
 
 
  Take this top-left n x n box and it will solve the remaining puzzle
