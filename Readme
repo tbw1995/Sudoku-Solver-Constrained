@@ -57,6 +57,11 @@ Output of valid Solution
 
 Spoiler- This Algorithm doesn't just solve constrained 9 x 9. I'm thinking evil for 50x25. Rules will be shared in Part-two for correctly solving 50x25
 
+Update:-For the code to map out grids/solve puzzles correctly you must know the proper inputs.
+Remember, the rules for a *12 x 12*. it would be *3 x 4* squares. And so on. 
+You'll have to know how a valid Sudoku grid would map out for a n x n. eg. *9 x 9* would be *3 x 3*.
+
+
 There's no reason to downvote working code. I find the reason quite confusing actually. This is on topic.
 Here's the link to the grid https://cdn.hackaday.io/files/1652867071596224/output.txt
 Working code linked. https://repl.it/repls/TubbyPrestigiousFirm
