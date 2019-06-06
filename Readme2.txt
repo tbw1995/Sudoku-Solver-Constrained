@@ -15,6 +15,8 @@ You are asked for input to map out valid grid in O(n^3) time.
 
 HINT: If you generate larger grids than 9 x 9, you'll need to make sure your input is given for human readability eg.**['[01]','[02]'...]**
 
+Don't run this code, as the n x n boxes are swapped
+
     print('enter with [1,2,3...] brackets')
     tup = input()[1:-1].split(',')
     x = input('Enter mapping valid Sudoku eg. 3 for 9 x 9:')
