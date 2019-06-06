@@ -20,6 +20,14 @@ Such as this one.
 
 And provide this n x n box into my Algorithm as follows [1,2,3,4,5,6,7,8,9](generates valid grid and solves constrained)
 Note: For grids larger than 9 x 9 please use additonal brackets for readablity. eg. [[01],[02],[03],....]
+Also, please remember that you need to know multiplication to output a properly mapped n^2 x n^2. For example, a 25 x 25
+should be a 5 x 5 for the inputs as follows
+
+For x, x = 5
+
+For e, e = 25
+
+for f, f = 5
 
 print('enter with [1,2,3...] brackets')
 tup = input()[1:-1].split(',')
